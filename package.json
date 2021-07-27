@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "debug": "^2.6.9",
-    "merge": "^1.2.1",
+    "merge": "^2.1.1",
     "pako": "^1.0.6",
     "request": "^2.88.0",
     "request-debug": "^0.2.0",
